@@ -1,7 +1,11 @@
 # Cows and Bulls ⚾️ (숫자 야구게임)
 
 
-***Cows and Bulls,*** a **WPF**(Windows Presentation Foundation) game, written in **C#**.
+***Cows and Bulls,*** a **WPF**(Windows Presentation Foundation) game,
+
+written in **C#** with **XAML**.
+
+
 **target framework : .net framework 3.5**
 
 
@@ -33,6 +37,6 @@ Target number : 1234
 - Player input : 5678
 - Scoreboard : 0S 0B
 
-**enjoy the game**
+**⚾️ enjoy the game!**
 
 *Made By Kay*
