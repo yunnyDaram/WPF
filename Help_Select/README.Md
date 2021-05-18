@@ -43,6 +43,6 @@ written in **C#** with **XAML**.
 ![play image](https://github.com/yunnyDaram/WPF/blob/master/Help_Select/Help_Select/ex2.png)
 
 
-**⚾️ enjoy the game!**
+**Pick what you want!**
 
 *Made By Kay*
