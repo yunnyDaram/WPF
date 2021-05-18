@@ -38,7 +38,7 @@ Target number : 1234
 - Scoreboard : 0S 0B
 
 
-![play image] (https://github.com/yunnyDaram/WPF/blob/master/BullsAndCows/BullsAndCows/ex1.png)
+![play image](https://github.com/yunnyDaram/WPF/blob/master/BullsAndCows/BullsAndCows/ex1.png)
 
 
 
