@@ -37,6 +37,11 @@ Target number : 1234
 - Player input : 5678
 - Scoreboard : 0S 0B
 
+
+![play image](https://github.com/yunnyDaram/WPF/blob/master/BullsAndCows/BullsAndCows/ex1.png)
+
+
+
 **⚾️ enjoy the game!**
 
 *Made By Kay*
