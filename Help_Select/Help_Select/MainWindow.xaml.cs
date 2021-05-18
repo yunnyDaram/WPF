@@ -188,7 +188,7 @@ namespace Help_Select
                 TextBox txtbox = new TextBox();
 
                 txtbox.Margin = new Thickness(1);
-                txtbox.Width = 70;
+                txtbox.Width = 100;
                 txtbox.FontSize = 20;
                 txtbox.Background = Brushes.Ivory;
                 txtbox.TextAlignment = TextAlignment.Center;

@@ -2,13 +2,13 @@
 
 
 
-***결정하는것에 지쳐 있다면,*** 주저없이 헬픽을 사용해보세요.
+## ***결정하는것에 지쳐 있다면,*** 주저없이 헬픽을 사용해보세요.
+
+
 ##### Use for Hamlet Syndrome, Can help your Pick.
 
 
-
-**WPF**(Windows Presentation Foundation) game,
-
+**WPF**(Windows Presentation Foundation) game, 
 written in **C#** with **XAML**.
 
 
@@ -40,7 +40,7 @@ written in **C#** with **XAML**.
 ## Example
 
 
-![play image](/ex1.png)
+![play image](https://github.com/yunnyDaram/WPF/blob/master/Help_Select/Help_Select/ex2.png)
 
 
 **⚾️ enjoy the game!**
